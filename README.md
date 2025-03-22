@@ -18,3 +18,12 @@ Here's what I uncovered:
 I got hands-on with pivot tables, filters, and even created new columns to track the data better. 
 
 I also used bar charts and line charts to visually present my findings and draw some conclusions.
+
+
+![Image](https://github.com/user-attachments/assets/ead6f970-da8a-4e72-ac65-a433ba5573dd)
+
+
+![Image](https://github.com/user-attachments/assets/996e208d-77d8-4384-8d8a-df7bc4fc70fa)
+
+
+![Image](https://github.com/user-attachments/assets/927989e9-3930-4a98-a6d7-2f35d8e07bba)
